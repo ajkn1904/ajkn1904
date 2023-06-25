@@ -21,8 +21,6 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/ajkn1904)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904)  
+![GitHub metrics](https://metrics.lecoq.io/ajkn1904) ![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904)  
 
 ![Profile views](https://gpvc.arturio.dev/?user=ajkn1904)
