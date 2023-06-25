@@ -1,7 +1,7 @@
+## Hi there 👋, I'm Anika Jumana Khanam Nishat
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](Anika Jumana Khanam Nishat)
 #### MERN Stack Developer
-This is Anika Jumana Khanam Nishat an enthusiastic full stack developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
+This is Anika Jumana Khanam Nishat an enthusiastic full-stack developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
 .
 
 Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap / Redux / Typescript / Material UI / C / Java / Python / PHP / Laravel
@@ -24,4 +24,4 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/?user=ajkn1904)
+![Profile views](https://komarev.com/ghpvc/?username=ajkn1904)
