@@ -27,4 +27,4 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904)  
 
-![Profile views](https://gpvc.arturio.dev/[ajkn1904])
+![Profile views](https://gpvc.arturio.dev/ajkn1904)
