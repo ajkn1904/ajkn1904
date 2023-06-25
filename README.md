@@ -1,14 +1,15 @@
-## Hi there 👋, I'm Anika Jumana Khanam Nishat
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](Anika Jumana Khanam Nishat)
 #### MERN Stack Developer
-This is Anika Jumana Khanam Nishat an enthusiastic React developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
+This is Anika Jumana Khanam Nishat an enthusiastic full stack developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
 .
 
-Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap / Redux / Typescript / Material UI 
+Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap / Redux / Typescript / Material UI / C / Java / Python / PHP / Laravel
 
-- 🌱 I’m currently learning Mongo / Express / Node / js 
+- 🌱 I’m currently learning Mongo / Express / Node 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front end development 
-- 📫 How to reach me: ajknishat@gmail.com
+- 📫 How to reach me: anika.nishat06@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajkn1904)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:red;">](https://www.linkedin.com/in/anika-jumana-khanam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/)  
