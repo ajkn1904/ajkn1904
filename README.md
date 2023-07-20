@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajkn1904&column=4&margin-h=25&margin-w=25&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajkn1904&show_icons=true&theme=radical)![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajkn1904&show_icons=true&theme=dark)![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ajkn1904) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkn1904)](https://github.com/anuraghazra/github-readme-stats) 
 
