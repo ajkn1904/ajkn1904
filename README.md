@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajkn1904&show_icons=true&theme=radical)![GitHub streak stats](https://streak-stats.demolab.com/?user=ajkn1904&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/ajkn1904) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkn1904)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub metrics](https://metrics.lecoq.io/ajkn1904) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkn1904&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
