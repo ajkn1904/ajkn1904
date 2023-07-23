@@ -17,8 +17,8 @@ REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap 
 ### More Ways to Reach Me Out
 [<img src='https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-512.png' alt='github' height='40'>](https://github.com/ajkn1904)  [<img src='https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png' alt='linkedin' height='40' style="color:red;">](https://www.linkedin.com/in/anika-jumana-khanam/)  [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png' alt='facebook' height='40'>](https://www.facebook.com/anika.jumana.khanam/)  [<img src='https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-64.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/)  
 
- _____________________________________________________________________________________________________________
-
+ ---
+ 
  ### Achievements & Contributions 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
 
