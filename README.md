@@ -30,6 +30,6 @@ REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap 
 ![GitHub metrics](https://metrics.lecoq.io/ajkn1904) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajkn1904&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajkn1904&theme=github-compact)](https://github.com/ajkn1904/github-readme-activity-graph)
 
 ![Count](https://komarev.com/ghpvc/?username=ajkn1904)
