@@ -2,14 +2,14 @@
 
 # Hi there 👋, I'm Anika Jumana Khanam Nishat
 
-### MERN Stack Developer
-This is Anika Jumana Khanam Nishat an enthusiastic full-stack developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
+### Software Engineer - MERN Stack Developer
+This is Anika Jumana Khanam Nishat an enthusiastic software engineer & developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. Now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
 
 ### Skillset
 REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap / Redux / Typescript / Daisy UI/ Flowbite / Material UI / Chakra UI / C / Java / Python / PHP / Laravel
 
 ### Overview
-- 🌱 I’m currently learning Mongo / Express / Node / PHP / Laravel / Python
+- 🌱 I’m currently learning Mongoose / Express / Node / NextJs / Typescipte / Python
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front end development 
 - 📫 How to reach me: anika.nishat06@gmail.com
