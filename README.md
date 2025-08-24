@@ -6,7 +6,7 @@
 This is Anika Jumana Khanam Nishat an enthusiastic software engineer & developer. I have a passion for learning new technologies in web development. Learning MERN stack development makes me so confident to grow up a great career. Now, this is the right place to show my skills and other talents. And I want to dominate the web IT sector and be the person I always dream of.
 
 ### Skillset
-REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Tailwind / Bootstrap / Redux / Typescript / Daisy UI/ Flowbite / Material UI / Chakra UI / C / Java / Python / PHP / Laravel
+REACT / JS / HTML / CSS / Node Js / Express Js / Mongodb / Mongoose / Tailwind / Bootstrap / PostgreSQL / Redux / Typescript / NextJs / Daisy UI/ Flowbite / Material UI / Chakra UI Shadcn UI / C / Java / Python / PHP / Laravel
 
 ### Overview
 - 🌱 I’m currently learning Mongoose / Express / Node / NextJs / Typescipte / Python
