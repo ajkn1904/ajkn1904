@@ -17,9 +17,9 @@ This is Anika Jumana Khanam Nishat an enthusiastic software engineer & developer
 
 
 ### Overview
-- 🌱 I’m currently learning Mongoose / Express / Node / NextJs / Typescipte / Python
+- 🌱 I’m currently learning NextJs / Typescipte / Mongoose / Prisma / Python
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Front end development 
+- 💬 Ask me about software development 
 - 📫 How to reach me: anika.nishat06@gmail.com
 
 ### More Ways to Reach Me Out
